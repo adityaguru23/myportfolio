@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "SRM Easwari Engineering College",
     location: "Chennai, India",
     description:
-      "I am currently pursuing my UnderGraduate Studies in the field of Computer Science and Engineering",
+      "I am currently pursuing my Undergraduate Studies in the field of Computer Science and Engineering",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - 2027",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     description:
       "I'm now a Blockchain Research Intern. Leading a team of Blockchain Interns",
     icon: React.createElement(FaReact),
-    date: "2021 - present",
+    date: "2025 - present",
   },
 ] as const;
 
