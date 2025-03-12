@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "SRM Easwari Engineering College",
     location: "Chennai, India",
     description:
-      "I am currently completing my UnderGraduate Studies in the field of Computer Science and Engineering",
+      "I am currently pursuing my UnderGraduate Studies in the field of Computer Science and Engineering",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - 2027",
   },
