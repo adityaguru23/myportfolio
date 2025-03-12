@@ -19,30 +19,35 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        I am a passionate developer exploring{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Solana, Rust, and frontend technologies
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
+        . My journey started with an interest in blockchain and Web3, and I have
+        been actively building decentralized applications. I enjoy working with{" "}
+        <span className="font-medium">React, Next.js, and TypeScript</span>, and
+        I am also learning Tailwind CSS to improve my design skills. I love the
+        problem-solving aspect of programming, especially when it comes to{" "}
+        <span className="italic">
+          optimizing performance and writing clean code
+        </span>
+        . My projects include blockchain-based supply chain management, NFT
+        dApps, and decentralized finance solutions. I am currently looking for
+        opportunities in{" "}
+        <span className="font-medium">AI and Web3 startups</span> to grow as a
         developer.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic">When I'm not coding</span>, I focus on fitness,
+        working towards a lean and strong physique. My workouts include{" "}
+        <span className="font-medium">
+          calisthenics, hypertrophy training, and mobility drills
+        </span>
+        . I also enjoy learning about{" "}
+        <span className="font-medium">history, philosophy, and design</span> to
+        enhance my creativity. My current goal is to improve my frontend skills
+        and build better UI/UX for Web3 applications.
       </p>
     </motion.section>
   );
