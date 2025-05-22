@@ -31,8 +31,8 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://avatars.githubusercontent.com/u/88327833?s=400&u=5fc781b9eec544e2cffd1a6486a6e991b791d3cc&v=4"
-              alt="K.S.Adithya portrait"
+              src="https://avatars.githubusercontent.com/u/116833161?s=400&u=633cc6dead74acfe6afe0c0f5a46a6b7394d54f8&v=4"
+              alt="Aditya G portrait"
               width="192"
               height="192"
               quality="95"
@@ -62,11 +62,12 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm K.S.Adithya.</span> I'm a{" "}
-        <span className="font-bold">full-stack Blockchain developer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">Hello, I'm Aditya G.</span> I'm a{" "}
+        <span className="font-bold">Computer Science undergrad</span> who loves{" "}
+        <span className="italic">solving problems</span> and building{" "}
+        <span className="font-bold">intuitive, efficient systems</span>. I'm
+        passionate about making tech more{" "}
+        <span className="underline">smart and user-friendly</span>.
       </motion.h1>
 
       <motion.div
@@ -91,7 +92,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="https://drive.google.com/file/d/1awL0irLbQFpd9tfomB9zzHhbyUUtuIsP/view?usp=sharing"
+          href="https://github.com/adityaguru23/Resume/blob/main/docs/AdityaG_Resume_310623104005_EEC.pdf"
           download
         >
           Download CV{" "}
@@ -100,7 +101,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 hover:text-gray-950 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://www.linkedin.com/in/k-s-adithya248/"
+          href="https://www.linkedin.com/in/aditya-gurumoorthy-30abb4291/"
           target="_blank"
         >
           <BsLinkedin />
@@ -108,7 +109,7 @@ export default function Intro() {
 
         <a
           className="bg-white p-4 text-gray-700 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
-          href="https://github.com/Firespiko"
+          href="https://github.com/adityaguru23"
           target="_blank"
         >
           <FaGithubSquare />

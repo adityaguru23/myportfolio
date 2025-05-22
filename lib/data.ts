@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/ncdr.png";
-import underconst from "@/public/under_construction.jpg";
-import portimag from "@/public/portfolio.png";
+import corpcommentImg from "@/public/smart scheduler.png";
+import underconst from "@/public/paddle.jpeg";
+import portimag from "@/public/supermarket.webp";
 
 export const links = [
   {
@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "The Hindu Senior Secondary School",
+    title: "Vidya Mandir Senior Secondary School",
     location: "Chennai, India",
     description: "I completed my High School Graduation.",
     icon: React.createElement(LuGraduationCap),
@@ -49,78 +49,48 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2023 - 2027",
   },
-  {
-    title: "BLockchain Research Intern",
-    location: "Chennai, India",
-    description:
-      "I'm now a Blockchain Research Intern. Leading a team of Blockchain Interns",
-    icon: React.createElement(FaReact),
-    date: "2025 - present",
-  },
 ] as const;
 
 export const projectsData = [
   {
-    title: "ncdr",
+    title: "Study Scheduler",
     description:
-      "This is a small project i did with caesar cipher encoding. I added a unique feature callled random mode what does it do? husshh🤫",
-    tags: ["React", "Next.js", "Tailwind"],
+      "A console-based C++ tool to help students plan, track, and manage study hours for each subject. It shows real-time progress and even tells you what’s still pending. Think of it as your nerdy productivity buddy. 😄",
+    tags: ["C++"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "Friendly Draw",
+    title: "Paddle and Ball",
     description:
-      "A excalidraw like applications with extra suprising features 🤔. Under construction rn.....",
-    tags: [
-      "React",
-      "TypeScript",
-      "Next.js",
-      "Tailwind",
-      "Redux",
-      "TurboRepo",
-      "WebSockets",
-    ],
+      "A simple Python game where you control a paddle to keep the ball bouncing. Built with Pygame, it's smooth, fast, and fun to play.",
+    tags: ["Python", "Pygame"],
     imageUrl: underconst,
   },
   {
-    title: "Personal Potfolio",
-    description: "Just this site 😉",
-    tags: ["React", "Next.js", "Tailwind", "Framer"],
+    title: "Supermarket Bill Generator",
+    description:
+      "An array of python programs designed for generating supermarket bills for different products",
+    tags: ["Python"],
     imageUrl: portimag,
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
-  "Rust",
-  "Solidity",
-  "Ether/Web3.js",
   "C",
   "C++",
-  "Java",
+  "Java (Basics)",
+  "Python (Basics)",
   "SQL",
-  "AWS",
-  "EC2",
-  "ZenML",
-  "Docker",
-  "Nginx",
-  "Linux",
-  "GitHub",
-  "Vercel",
+  "HTML5",
+  "CSS3",
+  "JavaScript",
+  "Java",
+  "Git/Github",
+  "Visual Studio Code",
+  "MySQL",
+  "Linux (Basics)",
+  "Team Leadership",
+  "Communication",
+  "Problem Solving",
+  "Collaboration",
 ] as const;

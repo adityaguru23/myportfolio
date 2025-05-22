@@ -19,35 +19,23 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a passionate developer exploring{" "}
+        I am a creative and analytical thinker who thrives on solving complex
+        problems. Passionate about technology, I am constantly seeking
+        innovative ways to integrate diverse functionalities into seamless
+        solutions. My projects reflect my ambition to simplify users’
+        experiences by combining multiple tasks into unified systems. Whether
+        I’m working on{" "}
         <span className="font-medium">
-          Solana, Rust, and frontend technologies
-        </span>
-        . My journey started with an interest in blockchain and Web3, and I have
-        been actively building decentralized applications. I enjoy working with{" "}
-        <span className="font-medium">React, Next.js, and TypeScript</span>, and
-        I am also learning Tailwind CSS to improve my design skills. I love the
-        problem-solving aspect of programming, especially when it comes to{" "}
-        <span className="italic">
-          optimizing performance and writing clean code
-        </span>
-        . My projects include blockchain-based supply chain management, NFT
-        dApps, and decentralized finance solutions. I am currently looking for
-        opportunities in{" "}
-        <span className="font-medium">AI and Web3 startups</span> to grow as a
-        developer.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I focus on fitness,
-        working towards a lean and strong physique. My workouts include{" "}
+          an AI model to streamline everyday services
+        </span>{" "}
+        or{" "}
         <span className="font-medium">
-          calisthenics, hypertrophy training, and mobility drills
+          developing a tool to enhance writing quality
         </span>
-        . I also enjoy learning about{" "}
-        <span className="font-medium">history, philosophy, and design</span> to
-        enhance my creativity. My current goal is to improve my frontend skills
-        and build better UI/UX for Web3 applications.
+        , I approach each challenge with curiosity and determination. I value{" "}
+        <span className="italic">efficiency, precision, and creativity</span> in
+        my work, and I’m driven by a desire to make technology more intuitive
+        and accessible for everyone.
       </p>
     </motion.section>
   );

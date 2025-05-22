@@ -1,1 +1,1 @@
-# Hey there I am K.S.Adithya and this is my portfolio site.
+# Hey there I am Aditya G and this is my portfolio site.
